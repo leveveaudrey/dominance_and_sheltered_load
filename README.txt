@@ -1,5 +1,6 @@
-please cite Le Veve et al (2024) 
-CITE AS: eLife2024;13:RP94972 DOI: https://doi.org/10.7554/eLife.94972.3
+please cite 	Le Veve, A, Genete, M., Lepers-Blassiau, C., Ponitzki, C., Poux, C., Vekemans, X., Durand, E., Castric, V., 2024. The genetic architecture of the load linked to dominant and recessive self-incompatibility alleles in Arabidopsis halleri and A. lyrata. eLife 13. https://doi.org/10.7554/eLife.94972.2
+
+Le Veve, A., Burghgraeve, N., Genete, M., Lepers-Blassiau, C., Takou, M., De Meaux, J., Mable, B.K., Durand, E., Vekemans, X., Castric, V., 2023. Long-Term Balancing Selection and the Genetic Load Linked to the Self-Incompatibility Locus in Arabidopsis halleri and A. lyrata. Mol Biol Evol 40, msad120. https://doi.org/10.1093/molbev/msad120 
 
 
 I) generate the VCF files
