@@ -1,3 +1,7 @@
+please cite Le Veve et al (2024) 
+CITE AS: eLife2024;13:RP94972 DOI: https://doi.org/10.7554/eLife.94972.3
+
+
 I) generate the VCF files
 	
 	The VCF file were generated with pipeline "sequencing_genome_vcf.py" than take a reference genome (-r) , a file than contained genomic data files name (-i) and a bed file (-b)
